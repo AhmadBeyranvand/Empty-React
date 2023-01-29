@@ -1,3 +1,4 @@
+![GitHub all releases](https://img.shields.io/github/downloads/AhmadBeyranvand/empty-react/total)    ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AhmadBeyranvand/empty-react)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
